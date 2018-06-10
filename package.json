@@ -1,0 +1,22 @@
+{
+    "name": "void",
+    "displayName": "void",
+    "description": "Void theme for VSCode",
+    "version": "0.0.1",
+    "publisher": "praseetha",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Void",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Void-color-theme.json"
+            }
+        ]
+    }
+}
