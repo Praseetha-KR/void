@@ -1,6 +1,10 @@
 # Void
 A less bright theme for VS Code. 👩🏻‍💻
 
-*[WIP]*
+![Void theme](https://raw.githubusercontent.com/Praseetha-KR/void/master/icon.jpg)
 
-![Void theme](screenshots/void_v0_1.png)
+
+
+##### PREVIEW
+
+![Void theme screenshot](https://raw.githubusercontent.com/Praseetha-KR/void/master/preview.png)
