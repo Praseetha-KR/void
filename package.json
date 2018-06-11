@@ -4,6 +4,7 @@
     "description": "Void theme for VSCode",
     "version": "0.0.1",
     "publisher": "praseetha",
+    "repository": "https://github.com/Praseetha-KR/void",
     "engines": {
         "vscode": "^1.24.0"
     },
