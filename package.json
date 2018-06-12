@@ -3,7 +3,7 @@
     "displayName": "void",
     "description": "Void theme for VSCode",
     "icon": "icon.jpg",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "praseetha",
     "repository": "https://github.com/Praseetha-KR/void",
     "engines": {
