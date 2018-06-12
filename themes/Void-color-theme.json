@@ -7,6 +7,12 @@
         "contrastBorder": "#282A36",
         "errorForeground": "#EE7E71",
 
+        "titleBar.activeBackground": "#181a22",
+        "titleBar.activeForeground": "#757a91",
+        "titleBar.inactiveBackground": "#1b1d25",
+        "titleBar.inactiveForeground": "#757a91",
+        "titleBar.border": "#181a22",
+
         "diffEditor.insertedTextBackground": "#BBEC9211",
         "diffEditor.insertedTextBorder": "#BBEC9222",
         "diffEditor.removedTextBackground": "#EE7E7111",
@@ -33,9 +39,9 @@
         "list.hoverBackground": "#252835",
 
         "activityBar.background": "#272a38",
+        "activityBar.foreground": "#7b8094",
         "activityBarBadge.background": "#83A9EC",
         "activityBarBadge.foreground": "#272a38",
-        "activityBar.foreground": "#7b8094",
 
         "statusBar.background": "#1b1d25",
 
