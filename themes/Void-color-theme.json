@@ -40,6 +40,9 @@
 
         "statusBar.background": "#1b1d25",
 
+        "notifications.background": "#1f212b",
+        "notifications.foreground": "#adb4ca",
+
         "editorGroupHeader.tabsBackground": "#1b1d25",
         "tab.activeBackground": "#262935",
         "tab.inactiveBackground": "#1d2029",
