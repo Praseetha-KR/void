@@ -17,6 +17,7 @@
         "editor.foreground": "#d4d4d4",
         "editorLineNumber.foreground": "#4f5671",
         "editor.selectionBackground": "#2e313e",
+        "editor.findMatchHighlightBackground": "#d5da91",
 
         "sideBarTitle.foreground": "#bbbbbb",
         "sideBar.background": "#1d2029",
